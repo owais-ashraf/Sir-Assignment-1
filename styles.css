@@ -1,0 +1,51 @@
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 80% ;
+    margin: 0 auto ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+h1{
+    display: inline;
+}
+h3{
+    display: inline;
+    color: grey;
+}
+.num{
+    display: flex;
+   justify-content: space-between;
+}
+#firstHr{
+    border-top: 3.5px solid black;
+    
+}
+h2{
+    margin-bottom: 0%;
+}
+h4{
+    
+    margin-top: 1.5%;
+}
+#kamran{
+    color: grey;
+    font-weight: bold;
+    font-size:small ;
+}
+hr{
+    border: 1px solid grey;
+}
+.skill{
+    display: flex;
+    justify-content: space-between;
+}
+.underline{
+            padding-bottom: 5px;
+            border-bottom-style: solid;
+            border-color: gray;
+            border-bottom-width: 2.1px;
+            width: fit-content;
+}
